@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucky Clover</title>
+    <script src="/js/manhwa.js" defer ></script>
+    <link rel="icon" href="Images/Com-logo-2.png">
+    <link rel="stylesheet" href="../CSS/New-Page-2.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container" >
+        <div class="header">
+            <a href="/HomePage.html" > <img class="Com-logo" src="/Images/Com-logo-2.png" alt=""> </a>
+            <a class="New-btn" href=""> New </a>
+            <a class="BestOf-btn" href=""> Best Of </a>
+            <a class="Contact-btn" href=""> Contact </a>
+            <a class="LogIn-btn" href="/HTML/Log-in.html"> Log In </a>
+            <img class="Shopping-logo" herf="/HTML/shopping.html" src="/Images/shopping-bag.png" alt=""> 
+        </div>
+        <div class="line"></div>
+        <div class="main">
+            <input type="text" placeholder="Search your thing . . ." class="Search" id="searchValue" oninput="search()">
+            <div class="decide" >
+                <div class="anime" ><a href="New-Page.html"> Anime </a></div>
+                <div class="manga-manhwa" > Manga / Manhwa </div>
+            </div>
+            <!-- <img src="/Images/Solo-Leveling.jpg" alt=""> -->
+            <div class="Content" id="veprimi" ></div>
+            <!-- <div class="Contant">
+                <div class="First-row">
+                    <div class="first-card">
+                       <a href="https://www.webtoons.com/en/sports/wind-breaker/list?title_no=372"> <img class="card-img-1" src="../Images/Wind-Breaker.jpg" alt=""></a>
+                        <p class="card-name-1" > Wind Breaker </p>
+                    </div>
+                    <div class="second-card">
+                        <a href="https://www.webtoons.com/en/drama/lookism/list?title_no=1049"><img src="../Images/Lookism.jpg" class="card-img-2" alt=""> </a>
+                        <p class="card-name-2" > Looksim </p>
+                    </div>
+                    <div class="third-card"> 
+                        <a href="https://www.asurascans.com/comics/1649969363-solo-leveling/"><img src="../Images/Solo-Leveling.jpg" class="card-img-3" alt=""></a>
+                        <p class="card-name-3" > Solo Leveling </p>
+                    </div>
+                    <div class="fourth-card">
+                        <a href="https://mangaqueen.net/manga-list/boss-in-school/"><img class="card-img-4" src="../Images/Boss-in-School.jpg" alt=""></a>
+                        <p class="card-name-4" > Boss in School </p>
+                    </div>
+                    <div class="fifth-card">
+                        <a href="https://www.webtoons.com/en/action/eleceed/list?title_no=1571"><img class="card-img-5" src="../Images/Eleceed.webp" alt=""></a>
+                        <p class="card-name-5" > Eleceed </p>
+                    </div>
+                </div>
+                <div class="Second-row">
+                    <div class="first-card">
+                        <a href="https://luminousscans.com/series/1653732347-king-of-excavation/"><img class="card-img-1" src="../Images/Tomb-Raider-King.jpg" alt=""></a>
+                        <p class="card-name-1" > Tomb Raider King </p>
+                    </div>
+                    <div class="second-card">
+                        <a href="https://thebeginningaftertheend.online/"><img src="../Images/T-B-A-T-E.jpg" class="card-img-2" alt=""></a>
+                        <p class="card-name-2" > Beginnig After the End </p>
+                    </div>
+                    <div class="third-card"> 
+                        <a href="https://alpha-scans.org/manga/1646956922-the-descent-of-the-demonic-master/"><img src="../Images/T-D-O-T-D-M.jpg" class="card-img-3" alt=""></a>
+                        <p class="card-name-3" > Demonic Master </p>
+                    </div>
+                    <div class="fourth-card">
+                        <a href="https://1stkissmanga.io/manga/revival-man/"><img class="card-img-4" src="../Images/Revival-Man.png" alt=""></a>
+                        <p class="card-name-4" > Revival Man </p>
+                    </div>
+                    <div class="fifth-card">
+                        <a href="https://w2.secondliferanker.com/"><img class="card-img-5" src="../Images/Second-Life-Ranker.jpg" alt=""></a>
+                        <p class="card-name-5" > Second Life Ranker </p>
+                    </div>
+                </div>
+                <div class="Third-row">
+                    <div class="first-card">
+                        <a href="https://record-ragnarok.com/"><img class="card-img-1" src="../Images/Record-of-Ragnarok.jpg" alt=""></a>
+                        <p class="card-name-1" > Record of Ragnarok </p>
+                    </div>
+                    <div class="second-card">
+                        <a href="https://www.chainsaw-man-manga.online/"><img src="../Images/Chainsaw-Man.png" class="card-img-2" alt=""></a>
+                        <p class="card-name-2" > Chainsaw Man </p>
+                    </div>
+                    <div class="third-card"> 
+                        <a href="https://luminousscans.com/series/1653732347-legend-of-the-northern-blade/"><img src="../Images/L-O-F-N-B.jpg" class="card-img-3" alt=""></a>
+                        <p class="card-name-3" > Legend of Northen Blade </p>
+                    </div>
+                    <div class="fourth-card">
+                        <a href="https://reaperscans.com/series/overgeared/"><img class="card-img-4" src="../Images/Overgeared.jpg" alt=""></a>
+                        <p class="card-name-4" > Overgeard </p>
+                    </div>
+                    <div class="fifth-card">
+                        <a href="https://reaperscans.com/series/demonic-emperor/"><img class="card-img-5" src="../Images/Magic-Emperor.jpg" alt=""></a>
+                        <p class="card-name-5" > Demonic Emperor </p>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+        <!-- <div class="footer">
+            <div class="Creator-things">
+                Lucky Clover Company <br>
+                Best of Week <br>
+                Best of Month <br>
+                Manga <br>
+                <img class="icon-share" src="Images/Facebook.png"> <img src="Images/instagram.png"> <br>
+                rejatoverlani00@gmail.com <br>
+            </div>
+            <div class="Thanks">
+                ☻ Please bookmark our site. Thank you! ☻
+            </div>
+        </div> -->
+    </div>
+    <br>
+    <br>
+    <br>
+</body>
+</html>
