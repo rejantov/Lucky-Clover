@@ -1,0 +1,352 @@
+{
+    "filmat":[
+      {
+        "id": 1,
+        "name": "Tokyo Revengers",
+        "img": "/Images/Tokyo-Revengers.png",
+        "a": "/HTML/EpisodePage.html"
+      },
+      {
+        "id": 2,
+        "name": "Black Clover",
+        "img": "/Images/Clover.png",
+        "a": "/HTML/EpisodePage.html"
+      },
+      {
+        "id": 3,
+        "name": "My Hero Academia",
+        "img": "/Images/Hero.png",
+        "a": "/HTML/EpisodePage.html"
+      },
+      {
+        "id": 4,
+        "name": "Dr.Stone",
+        "img": "/Images/Stone.png",
+        "a": "/HTML/EpisodePage.html"
+      },
+      {
+        "id": 5,
+        "name": "Attack on Titan",
+        "img": "/Images/Titan.png",
+        "a": "/HTML/EpisodePage.html"
+      },
+      {
+        "id": 6,
+        "name": "Hellsing",
+        "img": "/Images/hellsing-2.jpg",
+        "a": "/HTML/EpisodePage.html"
+      },
+      {
+        "id": 7,
+        "name": "Spy X Family",
+        "img": "/Images/spy-x-family.png",
+        "a": "/HTML/EpisodePage.html"
+      },
+      {
+        "id": 8,
+        "name": "Tomodachi Game",
+        "img": "/Images/tomodachi-game.png",
+        "a": "/HTML/EpisodePage.html"
+      },
+      {
+        "id": 9,
+        "name": "One Piece",
+        "img": "/Images/one-piece.jpg",
+        "a": "/HTML/EpisodePage.html"
+      },
+      {
+        "id": 10,
+        "name": "JoJo Bizarre Adventure",
+        "img": "/Images/JoJo-Bizarre-Adventure-part1.jpg",
+        "a": "/HTML/EpisodePage.html"
+      } ,
+      {
+        "id":11 ,
+        "name":"Devilman Crybaby" ,
+        "img":"/Images/devilman-crybaby.png" ,
+        "a":"/HTML/EpisodePage.html"
+        } ,
+        {
+        "id": 12,
+        "name": "Kakegurui XX",
+        "img": "/Images/kakegurui-xx.png",
+        "a": "/HTML/EpisodePage.html"
+        } ,
+        {
+        "id": 13,
+        "name": "Castlevania",
+        "img": "/Images/Castlevania.webp" ,
+        "a": "/HTML/EpisodePage.html"
+        } , 
+        {
+        "id": 14,
+        "name": "Demon Slayer",
+        "img": "/Images/demon-slayer.png",
+        "a": "/HTML/EpisodePage.html"
+        } ,
+        {
+        "id": 15,
+        "name": "Baki",
+        "img": "/Images/baki.png",
+        "a": "/HTML/EpisodePage.html"
+        } ,
+        {
+        "id": 16,
+        "name": "Bluelock",
+        "img": "/Images/BLUELOCK.webp",
+        "a": "/HTML/EpisodePage.html"
+        } ,
+        {
+        "id": 17,
+        "name": "Jujutsu Kaisen",
+        "img": "/Images/JK.webp",
+        "a": "/HTML/EpisodePage.html"
+        } ,
+        {
+        "id": 18,
+        "name": "High Card",
+        "img": "/Images/HIGH-CARD.webp",
+        "a": "/HTML/EpisodePage.html"
+        } ,
+        {
+        "id": 19,
+        "name": "Bleach",
+        "img": "/Images/Bleach.webp",
+        "a": "/HTML/EpisodePage.html"
+        } ,
+        {
+        "id": 20,
+        "name": "Chainsaw Man",
+        "img": "/Images/Chainsaw-Man.png",
+        "a": "/HTML/EpisodePage.html"
+        } ,
+        {
+        "id": 21,
+        "name": "Classroom of the Elite",
+        "img": "/Images/ClassRoomOfTheELite.webp",
+        "a": "/HTML/EpisodePage.html"
+        } ,
+        {
+        "id": 22,
+        "name": "Ao Ashi",
+        "img": "/Images/AOASHI.webp",
+        "a": "/HTML/EpisodePage.html"
+        } ,
+        {
+        "id": 23,
+        "name": "Fire Force",
+        "img": "/Images/Fire-Force.jpg",
+        "a": "/HTML/EpisodePage.html"
+        } ,
+        {
+        "id": 24,
+        "name": "Parasyte",
+        "img": "/Images/Parasyte.jpg",
+        "a": "/HTML/EpisodePage.html"
+        } ,
+        {
+        "id": 25,
+        "name": "Dragon Ball",
+        "img": "/Images/Dragon Ball.jpg",
+        "a": "/HTML/EpisodePage.html"
+        } 
+    ] ,
+    "price" : [ 
+    {
+      "id": 1,
+      "name": "Momochi Zabuza Anime Action Figure",
+      "img": "/Images/Shop/zabuza.webp",
+      "a": "/HTML/ShopPage.html",
+      "cost":"$89.00"
+    },
+    {
+      "id": 2,
+      "name": "JoJo Bizarre Adventure Leone Abbacchio Anime Action Figure",
+      "img": "/Images/Shop/jojov.webp",
+      "a": "/HTML/ShopPage.html" ,
+      "cost":"$75.55"
+    },
+    {
+      "id": 3,
+      "name": "Demon Slayer Eyes Character Anime Hoodies Harajuku Sweatshirt",
+      "img": "/Images/Shop/demon-h.webp",
+      "a": "/HTML/ShopPage.html" ,
+      "cost":"$45.55"
+    },
+    {
+      "id": 4,
+      "name": "Shingeki No Kyojin Casual Street Caps Anime Bonnet Knitted Hat",
+      "img": "/Images/Shop/tit-h.webp",
+      "a": "/HTML/ShopPage.html",
+      "cost": "$29.99"
+    },
+    {
+      "id": 5,
+      "name": "Anime Figure One Piece Sun God Nika Gear 5 Monkey D Luffy",
+      "img": "/Images/Shop/best-f.webp",
+      "a": "/HTML/ShopPage.html",
+      "cost": "$70.55"
+    },
+    {
+      "id": 6,
+      "name": "Jujutsu Kaisen Itadori Yuji Ryomen Sukuna Phone Case",
+      "img": "/Images/Shop/sukuna-p.webp",
+      "a": "/HTML/ShopPage.html",
+      "cost": "$18.31"
+    },
+    {
+      "id": 7,
+      "name": "My Hero Academia Shoto Todoroki Anime Pants High Quality",
+      "img": "/Images/Shop/todo-s.webp",
+      "a": "/HTML/ShopPage.html",
+      "cost": "$38.99"
+    },
+    {
+      "id": 8,
+      "name": "Original Anime Hoodie Founding Titan Attack On Titan Pullovers",
+      "img": "/Images/Shop/titan-h.webp",
+      "a": "/HTML/ShopPage.html",
+      "cost": "$52.99"
+    },
+    {
+      "id": 9,
+      "name": "One Piece Nami Anime Hats High Quality",
+      "img": "/Images/Shop/nami-t.webp",
+      "a": "/HTML/ShopPage.html",
+      "cost": "$29.88"
+    },
+    {
+      "id": 10,
+      "name": "Phone Case Tokyo Revengers Phone Case For Samsung",
+      "img": "/Images/Shop/tok-p.jpg",
+      "a": "/HTML/ShopPage.html",
+      "cost": "$18.98"
+    },
+    {
+      "id": 11,
+      "name": "Best Itachi Uchiha Cosplay Costume High Quality",
+      "img": "/Images/Shop/ita-c.webp",
+      "a": "/HTML/ShopPage.html",
+      "cost": "$58.99"
+    },
+    {
+      "id": 12,
+      "name": "Straw Hat Pirates One Piece Want Bracelet",
+      "img": "/Images/Shop/one-b.webp",
+      "a": "/HTML/ShopPage.html",
+      "cost": "$12.00"
+    },
+    {
+      "id": 13,
+      "name": "Cosplay Film Red Movie One Piece Uta Shanks",
+      "img": "/Images/Shop/utta-c.webp",
+      "a": "/HTML/ShopPage.html",
+      "cost": "$118.99"
+    },
+    {
+      "id": 14,
+      "name": "Attack On Titan Eren Yeager Anime T-Shirt",
+      "img": "/Images/Shop/eren-s.jpg",
+      "a": "/HTML/ShopPage.html",
+      "cost": "$38.99"
+    },
+    {
+      "id": 15,
+      "name": "Kimetsu No Yaiba Long Necklace Keychain Jewelry",
+      "img": "/Images/Shop/dem-b.jpg",
+      "a": "/HTML/ShopPage.html",
+      "cost": "$15.30"
+    }
+  ] , "manga" : [ 
+    {
+      "id": 1,
+      "name": "Wind Breaker",
+      "img": "/Images/Wind-Breaker.jpg",
+      "a": "https://www.webtoons.com/en/sports/wind-breaker/list?title_no=372"
+    },
+    {
+      "id": 2,
+      "name": "Looksim",
+      "img": "/Images/Lookism.jpg",
+      "a": "https://www.webtoons.com/en/drama/lookism/list?title_no=1049"
+    },
+    {
+      "id": 3,
+      "name": "Solo Leveling",
+      "img": "/Images/Solo-Leveling.jpg",
+      "a": "https://www.asurascans.com/comics/1649969363-solo-leveling/"
+    },
+    {
+      "id": 4,
+      "name": "Boss in School",
+      "img": "/Images/Boss-in-School.jpg",
+      "a": "https://mangaqueen.net/manga-list/boss-in-school/"
+    },
+    {
+      "id": 5,
+      "name": "Eleceed",
+      "img":"/Images/Eleceed.webp",
+      "a": "https://www.webtoons.com/en/action/eleceed/list?title_no=1571"
+    },
+    {
+      "id": 6,
+      "name": "Tomb Raider King",
+      "img": "/Images/Tomb-Raider-King.jpg",
+      "a": "https://luminousscans.com/series/1653732347-king-of-excavation/"
+    },
+    {
+      "id": 7,
+      "name": "Beginnig After the End",
+      "img": "Images/T-B-A-T-E.jpg",
+      "a": "/https://thebeginningaftertheend.online/"
+    },
+    {
+      "id": 8,
+      "name": "Demonic Master",
+      "img": "/Images/T-D-O-T-D-M.jpg",
+      "a": "https://alpha-scans.org/manga/1646956922-the-descent-of-the-demonic-master/"
+    },
+    {
+      "id": 9,
+      "name": "Revival Man",
+      "img": "/Images/Revival-Man.png",
+      "a": "https://1stkissmanga.io/manga/revival-man/"
+    },
+    {
+      "id": 10,
+      "name": "Second Life Ranker",
+      "img": "/Images/Second-Life-Ranker.jpg",
+      "a": "https://w2.secondliferanker.com/"
+    },
+    {
+      "id": 11,
+      "name": "Record of Ragnarok",
+      "img": "/Images/Record-of-Ragnarok.jpg",
+      "a": "https://record-ragnarok.com/"
+    },
+    {
+      "id": 12,
+      "name": "Chainsaw Man",
+      "img": "/Images/Chainsaw-Man.png",
+      "a": "https://www.chainsaw-man-manga.online/"
+    },
+    {
+      "id": 13,
+      "name": "Legend of Northen Blade",
+      "img": "/Images/L-O-F-N-B.jpg",
+      "a": "https://luminousscans.com/series/1653732347-legend-of-the-northern-blade/"
+    },
+    {
+      "id": 14,
+      "name": "Overgeard",
+      "img": "/Images/Overgeared.jpg",
+      "a": "https://reaperscans.com/series/overgeared/"
+    },
+    {
+      "id": 15,
+      "name": "Demonic Emperor",
+      "img": "/Images/Magic-Emperor.jpg",
+      "a": "https://reaperscans.com/series/demonic-emperor/"
+    } 
+  ]
+}

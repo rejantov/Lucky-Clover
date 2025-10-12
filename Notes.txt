@@ -1,0 +1,8 @@
+json-server --watch db.json { per db json me aktivizu
+
+npx json-server db.json {  nese nuk bon e para
+
+i qet me nje line ne mes edhe e ndan ne disa kategrori te veqnata per secilin produkt qe ka me te vy edhe e bon kur e bon kqik ti shfaq veq qato
+
+
+json-server --watch db.json --port 3000 | Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned | this is the one that works
