@@ -89,66 +89,6 @@
         "name": "Baki",
         "img": "/Images/baki.png",
         "a": "/HTML/EpisodePage.html"
-        } ,
-        {
-        "id": 16,
-        "name": "Bluelock",
-        "img": "/Images/BLUELOCK.webp",
-        "a": "/HTML/EpisodePage.html"
-        } ,
-        {
-        "id": 17,
-        "name": "Jujutsu Kaisen",
-        "img": "/Images/JK.webp",
-        "a": "/HTML/EpisodePage.html"
-        } ,
-        {
-        "id": 18,
-        "name": "High Card",
-        "img": "/Images/HIGH-CARD.webp",
-        "a": "/HTML/EpisodePage.html"
-        } ,
-        {
-        "id": 19,
-        "name": "Bleach",
-        "img": "/Images/Bleach.webp",
-        "a": "/HTML/EpisodePage.html"
-        } ,
-        {
-        "id": 20,
-        "name": "Chainsaw Man",
-        "img": "/Images/Chainsaw-Man.png",
-        "a": "/HTML/EpisodePage.html"
-        } ,
-        {
-        "id": 21,
-        "name": "Classroom of the Elite",
-        "img": "/Images/ClassRoomOfTheELite.webp",
-        "a": "/HTML/EpisodePage.html"
-        } ,
-        {
-        "id": 22,
-        "name": "Ao Ashi",
-        "img": "/Images/AOASHI.webp",
-        "a": "/HTML/EpisodePage.html"
-        } ,
-        {
-        "id": 23,
-        "name": "Fire Force",
-        "img": "/Images/Fire-Force.jpg",
-        "a": "/HTML/EpisodePage.html"
-        } ,
-        {
-        "id": 24,
-        "name": "Parasyte",
-        "img": "/Images/Parasyte.jpg",
-        "a": "/HTML/EpisodePage.html"
-        } ,
-        {
-        "id": 25,
-        "name": "Dragon Ball",
-        "img": "/Images/Dragon Ball.jpg",
-        "a": "/HTML/EpisodePage.html"
         } 
     ] ,
     "price" : [ 

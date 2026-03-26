@@ -1,0 +1,183 @@
+* {
+    margin: 0px ;
+    padding: 0px ;
+    box-sizing: border-box;
+    text-decoration: none ;
+}
+
+body {
+    background-color: #1f1f1f ;
+}
+
+.container {
+    width: 100%;
+}
+
+.header {
+    width: 100% ;
+    height: 50px ;
+    background-color: #1f1f1e ;
+    display: flex;
+}
+
+.line {
+    width: 90vw ;
+    height: 1px ;
+    margin-left: 5vw ;
+    background: #FFFFFF ;
+    margin-top: 5px ;
+}
+
+.Com-logo {
+    width: 30px ;
+    height: 30px ;
+    margin-top: 10.5px ;
+    margin-left: 112px ;
+}
+
+.New-btn {
+    width: 220px;
+    height: 57px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none ;
+    margin-top: 10px;
+    margin-left: 92px ;
+}
+
+.BestOf-btn {
+    width: 220px;
+    height: 57px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none ;
+    margin-top: 11px;
+    margin-left: 21px ;
+}
+
+.Contact-btn {
+    width: 220px;
+    height: 57px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none ;
+    margin-top: 11px;
+    margin-left: 21px ;
+}
+
+.LogIn-btn {
+    width: 220px;
+    height: 57px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none ;
+    margin-top: 11px;
+    margin-left: 21px ;
+}
+
+.Shopping-logo {
+    width: 34px ;
+    height: 34px ;
+    margin-top: 5px ;
+    margin-left: 21px ;
+}
+
+.Search {
+    width: 90vw;
+    height: 66px ;
+    margin-left: 62px ;
+    margin-top: 50px ;
+    background-color: #FFFFFF ;
+    font-size: 24px ;
+    font-family: Montserrat ;
+    border-radius: 10px ;
+    border: none ;
+    padding-left: 20px;
+}
+
+.content {
+    width: 90vw ;
+    height: 500px ;
+    margin-left: 62px ;
+    background-color: #FFFFFF;
+    border-radius: 10px ;
+    margin-top: 50px ;
+    display: flex ;
+}
+
+.left-side {
+    width: 430px ;
+    height: 499px ;
+    border-radius: 10px ;
+}
+
+.right-side {
+    justify-self: flex-start;
+}
+
+.tittle {
+    font-family: Montserrat;
+    font-style: italic ;
+    font-weight: normal;
+    font-size: 64px ;
+    margin-left: 150px ;
+    margin-top: 10px ;
+}
+
+.paragraf {
+    font-family: Montserrat;
+    font-style: normal ;
+    font-weight: normal;
+    font-size: 16px ;
+    margin-left: 120px ;
+    margin-top: 10px ;
+}
+
+.last-part {
+    font-family: Montserrat;
+    font-style: italic ;
+    font-weight: normal;
+    font-size: 24px ;
+    margin-left: 150px ;
+    margin-top: 35px ;
+}
+
+
+/* 
+.eps-num {
+    color: white ;
+} */
+
+::-webkit-scrollbar {
+    height: 50px ;
+    width: 10px ;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #1f1f1f ;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(transparent, #FFFFFF) ;
+    border-radius: 5px ;
+}
